@@ -31,6 +31,16 @@
                             <artifactId>mysql-connector-java</artifactId>
                         </sharedLibrary>
                     </sharedLibraries>
+				<cloudHubDeployment>
+				  <uri>https://anypoint.mulesoft.com/</uri>
+				  <muleVersion>4.2.2</muleVersion>
+				  <username>salaam2</username>
+				  <password>salaam@02</password>
+				  <applicationName>contacts-api</applicationName>
+				  <environment>Sandbox</environment>
+				  <workerType>MICRO</workerType>
+				  <objectStoreV2>true</objectStoreV2>
+				</cloudHubDeployment>
                 </configuration>
 			</plugin>
 		</plugins>
