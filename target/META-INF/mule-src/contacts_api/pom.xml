@@ -35,7 +35,7 @@
 				  <uri>https://anypoint.mulesoft.com/</uri>
 				  <muleVersion>4.2.2</muleVersion>
 				  <username>salaam2</username>
-				  <password>salaam@02</password>
+				  <password>Salaam@02</password>
 				  <applicationName>contacts-api</applicationName>
 				  <environment>Sandbox</environment>
 				  <workerType>MICRO</workerType>
